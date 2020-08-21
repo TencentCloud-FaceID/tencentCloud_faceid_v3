@@ -20,8 +20,8 @@ func hmacsha256(s, key string) string {
 }
 
 func main() {
-    secretId := "AKIDHMFvPjvqDZmkXDI24uWt1EDxtb2FnvPf"
-    secretKey := "C9qOindQ0MTL0Xrw50g8KJ4arAF5i5GD"
+    secretId := ""
+    secretKey := ""
     host := "faceid.tencentcloudapi.com"
     algorithm := "TC3-HMAC-SHA256"
     service := "faceid"

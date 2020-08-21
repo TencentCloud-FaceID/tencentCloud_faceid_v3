@@ -6,8 +6,8 @@ require 'time'
 require 'openssl'
 
 # 密钥参数
-secret_id = 'AKIDHMFvPjvqDZmkXDI24uWt1EDxtb2FnvPf'
-secret_key = 'C9qOindQ0MTL0Xrw50g8KJ4arAF5i5GD'
+secret_id = ''
+secret_key = ''
 
 service = 'faceid'
 host = 'faceid.tencentcloudapi.com'
